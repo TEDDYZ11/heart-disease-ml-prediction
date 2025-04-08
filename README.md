@@ -53,7 +53,7 @@ Random Forest Accuracy: 0.86
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/heart-disease-prediction.git
+   git clone https://github.com/TEDDYZ11/heart-disease-prediction.git
    cd heart-disease-prediction
    ```
 
@@ -64,7 +64,7 @@ Random Forest Accuracy: 0.86
 
 3. Open the notebook:
    ```bash
-   jupyter notebook Final_Code_Project_Models.ipynb
+   jupyter notebook Heart-Health-ML_project.ipynb.ipynb
    ```
 
 ---

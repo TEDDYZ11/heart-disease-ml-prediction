@@ -79,14 +79,12 @@ Random Forest Accuracy: 0.86
 
 ---
 
-## Author
-**Zhihong Zhang**  
-
----
-
 ## Project Conclusion
 
 Among all models tested, the Random Forest Classifier achieved the highest accuracy, making it the most effective at predicting heart disease in this dataset.  
 Logistic Regression also performed well with high interpretability, while KNN and Decision Tree showed slightly lower predictive performance.  
 The results demonstrate that ensemble models like Random Forest can provide strong predictive power for health-related classification tasks.
 
+---
+## Author
+**Zhihong Zhang**  

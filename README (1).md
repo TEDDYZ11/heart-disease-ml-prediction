@@ -1,7 +1,7 @@
 
 # ❤️ Heart Disease Prediction Using Machine Learning
 
-This project uses multiple supervised learning models to predict the presence of heart disease based on clinical attributes. The dataset is sourced from [UCI's Heart Disease dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) and includes key health indicators such as cholesterol, blood pressure, age, and exercise-induced angina.
+This project uses multiple supervised learning models to predict the presence of heart disease based on clinical attributes. The dataset is sourced from online and includes key health indicators such as cholesterol, blood pressure, age, and exercise-induced angina.
 
 ---
 
@@ -80,14 +80,13 @@ Random Forest Accuracy: 0.86
 ---
 
 ## 🙋‍♀️ Author
-
 **Zhihong Zhang**  
-MSBA Student | Data & Analytics Enthusiast  
-🔗 [GitHub Profile](https://github.com/TEDDYZ11)
 
 ---
 
-## 🧠 Project Status
+## 🧠 Project Conclusion
 
-✅ Complete – Models trained and compared  
-🔍 Future work – Hyperparameter tuning, ROC-AUC, XGBoost, model deployment (optional)
+✅ Among all models tested, the Random Forest Classifier achieved the highest accuracy, making it the most effective at predicting heart disease in this dataset.  
+📊 Logistic Regression also performed well with high interpretability, while KNN and Decision Tree showed slightly lower predictive performance.  
+📌 The results demonstrate that ensemble models like Random Forest can provide strong predictive power for health-related classification tasks.
+

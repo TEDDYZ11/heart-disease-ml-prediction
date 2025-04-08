@@ -1,11 +1,11 @@
 
-# ❤️ Heart Disease Prediction Using Machine Learning
+# Heart Disease Prediction Using Machine Learning
 
 This project uses multiple supervised learning models to predict the presence of heart disease based on clinical attributes. The dataset is sourced from online and includes key health indicators such as cholesterol, blood pressure, age, and exercise-induced angina.
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - **File**: `heartdisease.csv`
 - **Target**: `target` (1 = heart disease present, 0 = not present)
@@ -13,7 +13,7 @@ This project uses multiple supervised learning models to predict the presence of
 
 ---
 
-## 🛠️ Models Used
+## Models Used
 
 The notebook tests and compares the performance of four machine learning classifiers:
 
@@ -26,7 +26,7 @@ The notebook tests and compares the performance of four machine learning classif
 
 ---
 
-## 🧪 Workflow Summary
+## Workflow Summary
 
 1. **Data Loading & Cleaning**
 2. **Exploratory Data Analysis**
@@ -38,7 +38,7 @@ The notebook tests and compares the performance of four machine learning classif
 
 ---
 
-## 📊 Sample Output
+## Sample Output
 
 ```text
 Logistic Regression Accuracy: 0.85
@@ -69,7 +69,7 @@ Random Forest Accuracy: 0.86
 
 ---
 
-## 📚 Technologies
+## Technologies
 
 - Python
 - pandas, numpy
@@ -79,14 +79,14 @@ Random Forest Accuracy: 0.86
 
 ---
 
-## 🙋‍♀️ Author
+## Author
 **Zhihong Zhang**  
 
 ---
 
-## 🧠 Project Conclusion
+## Project Conclusion
 
-✅ Among all models tested, the Random Forest Classifier achieved the highest accuracy, making it the most effective at predicting heart disease in this dataset.  
-📊 Logistic Regression also performed well with high interpretability, while KNN and Decision Tree showed slightly lower predictive performance.  
-📌 The results demonstrate that ensemble models like Random Forest can provide strong predictive power for health-related classification tasks.
+Among all models tested, the Random Forest Classifier achieved the highest accuracy, making it the most effective at predicting heart disease in this dataset.  
+Logistic Regression also performed well with high interpretability, while KNN and Decision Tree showed slightly lower predictive performance.  
+The results demonstrate that ensemble models like Random Forest can provide strong predictive power for health-related classification tasks.
 

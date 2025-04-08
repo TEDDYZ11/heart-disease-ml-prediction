@@ -49,7 +49,7 @@ Random Forest Accuracy: 0.86
 
 ---
 
-## 📌 How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash

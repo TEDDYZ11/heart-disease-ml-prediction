@@ -79,14 +79,6 @@ Random Forest Accuracy: 0.86
 
 ---
 
-## Project Conclusion
-
-Among all models tested, the Random Forest Classifier achieved the highest accuracy, making it the most effective at predicting heart disease in this dataset.  
-Logistic Regression also performed well with high interpretability, while KNN and Decision Tree showed slightly lower predictive performance.  
-The results demonstrate that ensemble models like Random Forest can provide strong predictive power for health-related classification tasks.
-
----
-
 ### Model Visualization and Performance
 
 Below are examples of decision tree structures and confusion matrices generated during model evaluation.
@@ -105,13 +97,8 @@ Below are examples of decision tree structures and confusion matrices generated 
 
 ---
 
-#### Conclusion
+## Project Conclusion
 
-Through this project, I successfully built and compared multiple machine learning models to predict the presence of heart disease using a real-world dataset. Among the models tested, the Decision Tree Classifier demonstrated excellent performance with high precision and recall, as reflected in the confusion matrix. Visualizations of tree structures provided interpretability, aiding in understanding how specific features influenced predictions.
-
-Overall, this analysis not only showcases the power of supervised learning in healthcare data but also highlights the importance of model selection and evaluation. Future improvements may include hyperparameter tuning, using ensemble methods like XGBoost, and deploying the model for real-time health screening.
-
----
-
-## Author
-**Zhihong Zhang**  
+Among all models tested, the Random Forest Classifier achieved the highest accuracy, making it the most effective at predicting heart disease in this dataset.  
+Logistic Regression also performed well with high interpretability, while KNN and Decision Tree showed slightly lower predictive performance.  
+The results demonstrate that ensemble models like Random Forest can provide strong predictive power for health-related classification tasks.

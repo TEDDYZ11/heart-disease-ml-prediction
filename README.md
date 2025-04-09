@@ -86,5 +86,24 @@ Logistic Regression also performed well with high interpretability, while KNN an
 The results demonstrate that ensemble models like Random Forest can provide strong predictive power for health-related classification tasks.
 
 ---
+
+### Model Visualization and Performance
+
+Below are examples of decision tree structures and confusion matrices generated during model evaluation.
+
+#### Confusion Matrix - High Accuracy
+![Confusion Matrix - High Accuracy](image1.png)
+
+#### Decision Tree (Complex)
+![Complex Decision Tree](image2.png)
+
+#### Decision Tree (Simplified)
+![Simplified Decision Tree](image3.png)
+
+#### Confusion Matrix - Balanced Accuracy
+![Confusion Matrix - Balanced](image4.png)
+
+---
+
 ## Author
 **Zhihong Zhang**  
